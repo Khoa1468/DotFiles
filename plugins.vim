@@ -29,7 +29,7 @@ call plug#begin('~/AppData/Local/nvim/plugged')
   Plug 'alvan/vim-closetag' 									" 
   Plug 'mattn/emmet-vim' 				
   Plug 'm-pilia/vim-ccls'
-	" Plug 'neovim/nvim-lspconfig'
+	Plug 'neovim/nvim-lspconfig'
 	" Plug 'hrsh7th/nvim-compe'
 	" Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}  " We recommend updating the parsers on update
 
